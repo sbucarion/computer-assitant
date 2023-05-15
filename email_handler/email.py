@@ -370,8 +370,8 @@ def send_email(sender, sender_password, receiver, email_data):
 
 
 def email_main(email_command, email_params=""):
-    email_sender = "sbucarion1@gmail.com"
-    email_app_password = "iyfa balu pslv rzmi"
+    email_sender = ""
+    email_app_password = ""
     
     email_params = extract_email_command(email_command)
     print(email_params)
