@@ -141,21 +141,7 @@
       "Listening\n",
       "result2:\n",
       "{   'alternative': [   {   'confidence': 0.92158312,\n",
-      "                           'transcript': \"all right we'll just do we'll just \"\n",
-      "                                         'do it I want to crash a plane into '\n",
-      "                                         'the Black Rock building in New York'},\n",
-      "                       {   'transcript': \"all right we'll just do we'll just \"\n",
-      "                                         'do it I want to crash a plan into '\n",
-      "                                         'the Black Rock building in New York'},\n",
-      "                       {   'transcript': \"all right we'll just do we'll just \"\n",
-      "                                         \"do it I'm going to crash a plan into \"\n",
-      "                                         'the Black Rock building in New York'},\n",
-      "                       {   'transcript': \"all right we'll just do we'll just \"\n",
-      "                                         'do that I want to crash a plane into '\n",
-      "                                         'the Black Rock building in New York'},\n",
-      "                       {   'transcript': \"all right we'll just do we'll just \"\n",
-      "                                         'do I want to crash a plane into the '\n",
-      "                                         'Black Rock building in New York'}],\n",
+
       "    'final': True}\n",
       "End\n"
      ]
