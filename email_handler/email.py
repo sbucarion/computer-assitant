@@ -145,7 +145,7 @@ def extract_email_command(email_command):
     
     
     #This is where I will send off commands to my own model once build and return the parameters in this function
-    openai.api_key = "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"
+    openai.api_key = ""
 
     gpt_email_prompt = list_of_commands["send_email_commands"][0] + email_command + list_of_commands["send_email_commands"][1]
     
